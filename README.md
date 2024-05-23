@@ -1,2 +1,1 @@
-# Prep-curse-Henry
-Repositorio de prueba
+Este proyecto es una prueba de crear un repositorio para subir a git hgub
